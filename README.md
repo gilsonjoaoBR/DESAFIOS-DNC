@@ -16,7 +16,7 @@ sheet monkey.
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS / JS /
+- HTML / CSS /
 ## Implantação em produção
 - Front end web: Netlify
 - Banco de dados: sheet monkey
