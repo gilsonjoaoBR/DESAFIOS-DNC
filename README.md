@@ -16,10 +16,10 @@ sheet monkey.
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS /
+- HTML / CSS / JS /
 ## Implantação em produção
-- Front end web: Netlify
-- Banco de dados: sheet monkey
+- Front end web: Netlify / Figma
+- Banco de dados: Sheet Monkey
 
 # Como executar o projeto
 - Clicar no link do pagina e vericar o resultado no link da planilha.
