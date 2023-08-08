@@ -1,0 +1,132 @@
+*{
+    background-color: #303030;
+    font-family: inter;  
+}
+
+#tituloPrincipal{
+    color: #FFFFFF;
+    font-size: 60px;
+    font-weight: 600px;
+    line-height: 72px;
+    letter-spacing: -0.025em;
+    text-align: left;
+    margin: 206px auto 20px 62px;    /* topo | direita | inferior | esquerda */  
+}
+
+#tituloSecundario{
+    color:#FFFFFF;
+    font-size: 20px;
+    font-weight: 500px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: auto auto 149px 62px;
+  
+}
+
+#conteudo{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    height: 229px;
+}
+    
+.realizacoes{
+    background-color: #F9F9F9;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 90px auto -90px 180px; /* topo | direita | inferior | esquerda */    
+}
+
+#primeiro{
+     height: 0px;  
+}
+
+#segunda{
+     height: 0px; 
+}
+
+#terceira{
+     height: 0px; 
+}
+
+#numero{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 70% */
+    margin-left: 180px;   
+}
+
+#historia{
+    background-color:#FFF;
+    display:flex;
+    columns: auto;
+    justify-content:space-around;
+    align-items: center;
+    height: 779px; 
+}
+
+#paragrafo{
+    background-color: #FFF;
+    
+    }
+#tituto{
+    font-size: 40px;
+    font-style: normal;
+}
+
+#foto{
+    border-radius: 30px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+p{
+    background-color: #FFF;
+    font-size: 24px;  
+}
+
+#rodape{
+    text-align: center;
+    height: 638px;
+    margin-top: 87px;
+    margin-left: 48px;
+}
+
+#formulario{
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 150%; /* 48px */
+}
+
+input{
+    background-color: #FFF;
+    font-size: 24px;
+    color:rgba(0, 0, 0, 0.30);
+    font-family:Raleway;
+    font-weight: 700;
+    width: 508px;
+    height: 72px;
+    margin: 62px;
+    margin-top: 48px;
+    border: 0px;
+    border-radius: 10px;
+    line-height: 30px; /* 125% */
+    padding-left: 10px;  
+}
+
+button{
+background-color:#C07212;
+color: #FFFFFF;
+font-family: Raleway;
+font-size: 30px;
+width: 286px;
+height: 74px;
+border-radius: 10px;
+margin-bottom: 50px;
+margin: 15px;
+font-weight: bolder;
+}
